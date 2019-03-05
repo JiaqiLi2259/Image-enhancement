@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemAbout"
+        android:title="关于应用"
+        />
+    <item
+        android:id="@+id/itemExit"
+        android:title="退出应用"
+        />
+
+</menu>

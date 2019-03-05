@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">REPIC</string>
+    <string name="originalImage">原始输入图像</string>
+    <string name="processedImage">处理过后图像</string>
+    <string name="app_version">REPIC 1.0.0</string>
+    <string name="app_author">Designed by Jiaqi Li</string>
+</resources>
