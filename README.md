@@ -1,4 +1,4 @@
-# PhotographicEnhancement
+# Image-enhancement
 This graduation project is a mobile terminal of Android platform for image enhancement under uneven lighting conditions.   
 The algorithm which this project used can be roughly divided into two steps:   
 1.The initial enhanced image is generated based on a simplified retinex model using guided image filter.   
